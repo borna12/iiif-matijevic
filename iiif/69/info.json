@@ -17,7 +17,7 @@
   } ],
   "profile" : "http://iiif.io/api/image/2/level0.json",
   "width" : 6183,
-  "@id" : "https://retrogram.jezik.hr/gramatike/matijevic/iiif/69",
+  "@id" : "https://borna12.github.io/iiif-matijevic/iiif/69",
   "@context" : "http://iiif.io/api/image/2/context.json",
   "height" : 10000
 }
