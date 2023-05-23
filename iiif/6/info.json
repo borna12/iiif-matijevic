@@ -1,0 +1,23 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 1, 2 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 2094,
+    "height" : 3333
+  }, {
+    "width" : 3141,
+    "height" : 5000
+  }, {
+    "width" : 6283,
+    "height" : 10000
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 6283,
+  "@id" : "https://retrogram.jezik.hr/gramatike/matijevic/iiif/6",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 10000
+}
